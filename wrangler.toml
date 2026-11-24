@@ -1,0 +1,6 @@
+name = "mksync"
+account_id = "7d26f6885c46ffd7b5f3acb1839a6e8f"
+compatibility_date = "2026-08-28"
+
+[assets]
+directory = "./"

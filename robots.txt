@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /scss/
+
+Sitemap: https://www.mksync-eg.com/sitemap.xml
