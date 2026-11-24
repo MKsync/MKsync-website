@@ -477,3 +477,11 @@ hr {
 .partner-cred-card p { color: #C7CCD8; margin: 0 0 10px; }
 .cred-link { color: #FFD42A; text-decoration: none; font-weight: 600; font-size: 14px; }
 .cred-link:hover { color: #ffe37a; }
+
+/* ---------- White cards: dark text (brand white/yellow/black) ---------- */
+.bg-white { color: #16181D !important; }
+.bg-white h1, .bg-white h2, .bg-white h3, .bg-white h4,
+.bg-white h5, .bg-white h6 { color: #101216 !important; }
+.bg-white p, .bg-white span, .bg-white li { color: #3A3F4A !important; }
+.bg-white .btn-square.bg-secondary { background-color: var(--mks-yellow) !important; }
+.bg-white .btn-square.bg-secondary i.text-white { color: #121212 !important; }
