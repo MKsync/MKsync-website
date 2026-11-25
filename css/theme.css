@@ -121,7 +121,7 @@ a:hover { color: var(--mks-yellow-dark); }
     border-bottom: 1px solid var(--mks-line);
 }
 .navbar .navbar-brand img {
-    height: 46px;
+    height: 50px;
     width: auto;
 }
 .navbar .navbar-nav .nav-link {
