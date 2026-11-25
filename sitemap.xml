@@ -14,4 +14,18 @@
   <url><loc>https://www.mksync-eg.com/ar/blog</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.mksync-eg.com/team</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.mksync-eg.com/ar/team</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.mksync-eg.com/service/network-infrastructure</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/service/network-infrastructure</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/service/it-outsourcing</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/service/it-outsourcing</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/service/microsoft-365</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/service/microsoft-365</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/service/cybersecurity</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/service/cybersecurity</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/service/cctv-intercom</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/service/cctv-intercom</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/service/public-address</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/service/public-address</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/blog/it-maintenance-contracts</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/blog/network-infrastructure-guide</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>

@@ -491,3 +491,14 @@ hr {
 .lang-switch:hover{background:var(--mks-yellow,#F5C518);color:#121212}
 .lang-switch i{font-size:1.05rem}
 @media(max-width:991.98px){.navbar-brand{order:1}.lang-switch{order:2;margin-inline-start:auto;margin-inline-end:.75rem}.navbar-toggler{order:3}.navbar-collapse{order:4}}
+
+/* Articles */
+.article-body{line-height:1.95;font-size:1.05rem}
+.article-body h2{margin:2.2rem 0 1rem;font-size:1.7rem}
+.article-body h3{margin:1.6rem 0 .75rem;font-size:1.3rem;color:var(--mks-yellow,#F5C518)}
+.article-body ul{margin:0 0 1.2rem;padding-inline-start:1.4rem}
+.article-body li{margin-bottom:.4rem}
+.article-body table{width:100%;border-collapse:collapse;margin:1.2rem 0}
+.article-body th,.article-body td{border:1px solid rgba(255,255,255,.2);padding:.65rem .8rem;text-align:start}
+.article-body th{background:rgba(255,255,255,.07)}
+a.services-item{text-decoration:none;color:inherit}
