@@ -28,4 +28,6 @@
   <url><loc>https://www.mksync-eg.com/ar/service/public-address</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.mksync-eg.com/ar/blog/it-maintenance-contracts</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.mksync-eg.com/ar/blog/network-infrastructure-guide</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.mksync-eg.com/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.mksync-eg.com/ar/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
